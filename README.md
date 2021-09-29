@@ -2,7 +2,7 @@
 
 A small project to get started with styled components. This project is based on Brad Traversy's Youtube Tutorial.
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
