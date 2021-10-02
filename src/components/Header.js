@@ -27,7 +27,7 @@ export default function Header() {
                         </Button>
                     </div>
 
-                    <Image src='./images/illustration-mockups.svg' alt='' />
+                    <Image src='./images/illustration-mockups.svg' alt='Mockup Illustration' />
                 </Flex>
             </Container>
         </StyledHeader>
