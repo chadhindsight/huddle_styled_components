@@ -19,4 +19,3 @@ export const StyledCard = styled.div`
     flex-direction: column;
   }
 `
-// NB: Media queries can be added to styled components to determine look on different devices
