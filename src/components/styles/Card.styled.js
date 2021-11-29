@@ -19,4 +19,3 @@ export const StyledCard = styled.div`
     flex-direction: column;
   }
 `
-// in my white tee!
