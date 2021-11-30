@@ -1,5 +1,6 @@
 import styled from 'styled-components'
 
+// Styled component example
 export const StyledCard = styled.div`
   display: flex;
   align-items: center;
