@@ -6,7 +6,6 @@ import { Container } from './components/styles/Container.styled';
 import GlobalStyles from './components/styles/Global';
 import content from './content';
 
-// Use a theme provider
 const theme = {
   colors: {
     header: '#ebfbff',
