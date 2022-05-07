@@ -18,4 +18,4 @@ export const StyledCard = styled.div`
   @media (max-width: ${({ theme }) => theme.mobile}) {
     flex-direction: column;
   }
-`
+`;
