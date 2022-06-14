@@ -4,6 +4,6 @@ import styled from "styled-components";
 export const Container = styled.div`
     width: 1000px;
     max-width: 90%;
-    padding: 0 21px;
+    padding: 0 22px;
     margin: 0 auto;
 `
