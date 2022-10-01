@@ -1,6 +1,6 @@
 import styled from "styled-components"
 
-//inside this string template is where you put your css.
+//inside this string template is where you put your css. Clear
 export const Container = styled.div`
     width: 1000px;
     max-width: 95%;
